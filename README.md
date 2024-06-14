@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 💚
 
-<!--
-**gihps/gihps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovanna Porfirio
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript;
+- Manga com sal 💛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você pode entrar em contato comigo 📫
+
+ 00001113231300sp@al.educacao.sp.gov.br
+
+
+## Yonngi marry me 💍
+
+ ![](https://media1.tenor.com/m/FiMek3-Ytb4AAAAC/suga-cat-crying-suga-cat.gif)
